@@ -1,24 +1,23 @@
-import Home from './components/Home'
-import About from './components/About'
-import Skills from './components/Skills'
-import Services from './components/Services'
-import Nav from './components/Nav'
-import Projects from './components/Projects'
-import Contact from './components/Contact'
-import Footer from './components/Footer'
-
+import Header from './components/header/Header'
+import Nav from './components/nav/Nav'
+import About from './components/about/About'
+import Skills from './components/skills/Skills'
+import Portfolio from './components/portfolio/Portfolio'
+import Services from './components/services/Services'
+import Contact from './components/contact/Contact'
+import Footer from './components/footer/Footer'
 
 function App() {
   return (
     <>
-      <Home/>
-      <Nav/>
-      <About/>
-      <Skills/>
-      <Services/>
-      <Projects/>
-      <Contact/>
-      <Footer/>
+      <Header />
+      <Nav />
+      <About />
+      <Skills />
+      <Services />
+      <Portfolio />
+      <Contact />
+      <Footer />
 
     </>
   );
