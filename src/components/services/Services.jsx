@@ -13,20 +13,20 @@ function Services() {
          <h2>Services</h2>
 
          <div className="container container_services">
-              <article className="card">
+              <article className="servicescard">
                 <MdDesignServices  className='icon '/>
                 <h3>Web Design</h3>
                 <p className='text-light'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae id quam placeat natus, at fugiat?</p>
               </article>
 
-              <article className="card">
+              <article className="servicescard">
                 <IoIosRocket   className='icon '/>
                 <h3>Fast Performance </h3>
                 <p className='text-light'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae id quam placeat natus, at fugiat?</p>
               </article>
 
 
-              <article className="card">
+              <article className="servicescard">
                 <FaCode  className='icon '/>
                 <h3>Clean Code</h3>
                 <p className='text-light'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae id quam placeat natus, at fugiat?</p>

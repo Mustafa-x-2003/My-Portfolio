@@ -4,7 +4,7 @@
     align-items: center;
     flex-wrap: wrap;
 }
-.container_services .card{
+.container_services .servicescard{
     width: 31%;
     border: 1px solid transparent;
     padding: 50px 40px;
@@ -12,7 +12,7 @@
     border-radius: 15px;
     transition: var(--transition);
 }
-.container_services .card:hover{
+.container_services .servicescard:hover{
     border-color: var(--color-primary);
     background: transparent;
 }
