@@ -13,7 +13,7 @@ function Header() {
 
 
         <h4>Hello I'm</h4>
-        <h1>Mahmoud Reda</h1>
+        <h1>Mustafa Sami</h1>
         <h4 className="text-light">Frontend Developer</h4>
         <CTA />
         <Social />

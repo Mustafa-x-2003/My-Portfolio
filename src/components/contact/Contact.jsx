@@ -26,7 +26,7 @@ const ContactData = [
     id:1,
     icon: <BsWhatsapp />,
     title:"WhatsApp",
-    info: "0123456789",
+    info: "01090803310",
     link: "https://api.whatsapp.com/send?phone=201094803310",
   }
 ]
