@@ -8,7 +8,7 @@ function Footer() {
   return (
     <footer>
       <a href="#" className="footer_logo">
-        RedaTech
+        Mustafa Sami
       </a>
 
       <ul className="permalinks">
@@ -43,7 +43,7 @@ function Footer() {
 
       <div className="footer_copyright">
         <small>
-          &copy; <a href="#">RedaTech</a> All rights reserved
+          &copy; <a href="#">Mustafa Sami</a> All rights reserved
         </small>
       </div>
     </footer>
